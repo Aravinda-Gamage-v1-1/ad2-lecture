@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SOLID-Principles/Dependency Inversion/Dependency Inversion.iml" filepath="$PROJECT_DIR$/SOLID-Principles/Dependency Inversion/Dependency Inversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-Principles/Interface Segregation/Interface Segregation.iml" filepath="$PROJECT_DIR$/SOLID-Principles/Interface Segregation/Interface Segregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-Principles/Liskow Segregation/Liskow Segregation.iml" filepath="$PROJECT_DIR$/SOLID-Principles/Liskow Segregation/Liskow Segregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-Principles/Open Close/Open Close.iml" filepath="$PROJECT_DIR$/SOLID-Principles/Open Close/Open Close.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-Principles/SOLID-Principles.iml" filepath="$PROJECT_DIR$/SOLID-Principles/SOLID-Principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-Principles/Single Responsibility/Single Responsibility.iml" filepath="$PROJECT_DIR$/SOLID-Principles/Single Responsibility/Single Responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad2-lecture.iml" filepath="$PROJECT_DIR$/ad2-lecture.iml" />
+    </modules>
+  </component>
+</project>
